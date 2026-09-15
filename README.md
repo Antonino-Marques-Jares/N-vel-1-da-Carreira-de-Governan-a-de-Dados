@@ -139,7 +139,7 @@ sl_emprestimos,silver,status,,string,,,
 
 # 1ª Etapa: Mapa de papéis e organograma de governança do SwiftBank
 
-![Papéis e organograma](01-mapa-de-papeis/mapa de papéis.png)
+![Papéis e organograma]([01-mapa-de-papeis/mapa de papéis.png](https://raw.githubusercontent.com/Antonino-Marques-Jares/N-vel-1-da-Carreira-de-Governan-a-de-Dados/refs/heads/main/01-mapa-de-papeis/mapa%20de%20pap%C3%A9is.png))
 
 Discutir no fórum
 A primeira tarefa é entender quem é quem na governança de dados do banco. A diretoria pediu um organograma claro, em três camadas (estratégica, tática e operacional), com os papéis nomeados, suas responsabilidades resumidas e a relação entre eles. O entregável servirá como referência institucional e será apresentado em comitê.
