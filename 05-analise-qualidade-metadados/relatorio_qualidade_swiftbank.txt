@@ -1,0 +1,32 @@
+
+============================================================
+RELATÓRIO DE QUALIDADE DE METADADOS – SWIFTBANK
+Gerado em: 15/09/2026 17:53:08
+============================================================
+
+1. VISÃO GERAL
+   Total de registros: 45
+   Total de colunas: 10
+
+2. INDICADORES DE QUALIDADE
+   Registros duplicados: 0
+   Colunas com nulos: 0
+   Tipos de pessoa inválidos: 0
+   Status de conta inválidos: 0
+   Segmentos inválidos: 0
+   Consentimentos inválidos: 0
+   Datas de nascimento inválidas: 0
+   Datas de abertura inválidas: 0
+   Erros lógicos: 0
+
+3. PERCENTUAL DE QUALIDADE
+   100.00%
+
+4. RECOMENDAÇÕES
+   - Padronizar campos categóricos (tipo_pessoa, status_conta, segmento).
+   - Validar datas na entrada (nascimento <= abertura).
+   - Implementar regras de qualidade no pipeline de ingestão.
+   - Documentar metadados no catálogo de dados.
+   - Designar Data Owner para a base de clientes.
+
+============================================================
